@@ -1,2 +1,5 @@
 Gitの練習をUdemyでやっています。
 ひたすら練習してみたいです。
+※コマンド入力時、githubのusername,passwordを求められた。なぜ？
+・git add
+・git commit
